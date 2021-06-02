@@ -15,7 +15,7 @@ limitations under the License.
 */
 package main
 
-import "xapp/cmd"
+import "cobraTest/cmd"
 
 func main() {
 	cmd.Execute()

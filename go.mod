@@ -1,4 +1,4 @@
-module xapp
+module cobraTest
 
 go 1.16
 
